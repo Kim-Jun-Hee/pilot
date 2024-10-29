@@ -21,8 +21,8 @@
 - **주요 기능**: 사람 객체 탐지, 입장 및 퇴장 카운팅, 누적 인원 계산.
 - **관련 링크**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing#scrollTo=mfOAv-IH57t-)
-- **시연 영상**:  
-  - 시연 이미지 image2.png
+- **시연 이미지**:  
+  - ![폐결절](image2.png)
 
 ---
 
