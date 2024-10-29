@@ -12,7 +12,7 @@
 - **관련 링크**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing#scrollTo=mfOAv-IH57t-)
 - **시연 영상**:  
-  - [시연 이미지](image1.png)
+  - 시연 이미지 (image1.png)
 
 ---
 
@@ -22,7 +22,7 @@
 - **관련 링크**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing#scrollTo=mfOAv-IH57t-)
 - **시연 영상**:  
-  - [시연 이미지](image2.png)
+  - 시연 이미지 (image2.png)
 
 ---
 
