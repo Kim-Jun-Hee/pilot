@@ -12,15 +12,15 @@
 - **관련 링크**:
   - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing#scrollTo=mfOAv-IH57t-)
 - **시연 영상**:  
-  - 시연 이미지 image1.png
+  - ![유동인구](image1.png)
 
 ---
 
-### 2. 유동인구 카운트 YOLO 영상 파일럿 프로젝트
-- **프로젝트 설명**: YOLO 모델을 사용하여 영상 속 유동인구를 실시간으로 감지하고, 입장 및 퇴장 수를 카운트하는 시스템.
-- **주요 기능**: 사람 객체 탐지, 입장 및 퇴장 카운팅, 누적 인원 계산.
+### 2. 폐결절 탐지 시스템
+- **프로젝트 설명**: YOLO 모델을 사용하여 사진 속 폐결절 탐지하는 시스템.
+- **주요 기능**: 폐결절 자동탐지.
 - **관련 링크**:
-  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/13T0kutpXo5_PSfEt3GdIy2FI9nPdjvyx?usp=sharing#scrollTo=mfOAv-IH57t-)
+  - [구글 코렙 주피터 노트북](https://colab.research.google.com/drive/1W40Odsndj5EFLFEIJrUc_lXDWcvZmpUF?usp=sharing)
 - **시연 이미지**:  
   - ![폐결절](image2.png)
 
